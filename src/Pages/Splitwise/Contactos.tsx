@@ -9,7 +9,7 @@ import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 const listaContactos = ["Jorge Loredo", "Narhari Olalde", "Mauricio Portilla"];
 const listaGrupos = [
   {
-    nombre: "Los Chakalokos",
+    nombre: "Los Motomamis",
     miembros: ["Jorge Loredo,", "Narhari Olalde,", "Mauricio Portilla"],
     dinero: "+$500",
   },

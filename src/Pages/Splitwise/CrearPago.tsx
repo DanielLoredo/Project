@@ -26,8 +26,8 @@ import CurrencyExchangeOutlinedIcon from "@mui/icons-material/CurrencyExchangeOu
 import GroupIcon from "@mui/icons-material/Group";
 
 const listaPersonas = ["Jorge Loredo", "Narhari Olalde", "Mauricio Portilla"];
-const listaGrupos = ["Los chakalokos", "Viaje Texcoco", "Los bellacos"];
-const grupoSeleccionado = "Los chakalocos";
+const listaGrupos = ["Los Motomamis", "Viaje Cancun", "Vacaciones"];
+const grupoSeleccionado = "Los Motomamis";
 
 const CrearPago = () => {
   const [term, setTerm] = useState("");
